@@ -1,0 +1,7 @@
+Admin:
+	admin
+	123@
+Nhân viên:
+	h
+	1
+// File này chỉ cho phép đọc!
